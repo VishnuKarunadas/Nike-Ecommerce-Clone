@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.7.3",
+    "multer": "^1.4.5-lts.1",
+    "nocache": "^4.0.0"
+  },
+  "name": "week-8",
+  "version": "1.0.0",
+  "description": "Ecommerce - project-using MVC (view Engine :-ejs)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejs",
+    "node",
+    "js",
+    "mongodb"
+  ],
+  "author": "Vishnu Karunadas",
+  "license": "ISC"
+}
